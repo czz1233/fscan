@@ -4,7 +4,7 @@
 
 
 ## 最近更新
-[+] 2022/6/30 poc添加CVE-2017-7504-Jboss-serialization-RCE.yml
+[+] 2022/6/30 poc添加
 CVE-2021-21972-vmcenter-RCE.yml
 CVE-2021-22005-vmcenter-upload-toRCE.yml
 CVE-2022-22954-VMware-RCE.yml
